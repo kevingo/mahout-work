@@ -3,4 +3,13 @@
   <groupId>itri.sstc.c200</groupId>
   <artifactId>recommender</artifactId>
   <version>1.0.0-SNAPSHOT</version>
+  
+  <dependencies>
+  	<dependency>
+    <groupId>org.apache.mahout</groupId>
+    <artifactId>mahout-core</artifactId>
+    <version>0.9</version>
+	</dependency>
+  </dependencies>
+  
 </project>
